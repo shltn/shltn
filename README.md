@@ -50,8 +50,8 @@
 ### GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shltn&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shltn&theme=tokyonight" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shltn&theme=tokyonight" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
