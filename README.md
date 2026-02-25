@@ -56,4 +56,4 @@
 
 ### Languages
 
-<img src="./github-stats/donut_by_lines.png" width="400" />
+<img src="./github-stats/donut_by_repos.png" width="400" />
