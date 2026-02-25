@@ -51,7 +51,9 @@
 
 <p>
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" height="170" />
 </p>
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+### Languages
+
+<img src="./github-stats/donut_by_lines.png" width="400" />
