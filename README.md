@@ -1,3 +1,14 @@
+### GitHub Stats
+
+<p>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
+</p>
+
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+---
+
 ### Tech Stack
 
 #### Cloud
@@ -31,14 +42,3 @@
     <img src="https://skillicons.dev/icons?i=git,githubactions&theme=dark" />
   </a>
 </p>
-
----
-
-### GitHub Stats
-
-<p>
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
-</p>
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
